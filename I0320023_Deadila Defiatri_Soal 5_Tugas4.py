@@ -1,4 +1,4 @@
-s ="Melukis anak Kelinci"
+s ="Stretch and Examined"
 
 # Panjangnya harusnya 20
 print("panjang dari s = %d" % len(s))
